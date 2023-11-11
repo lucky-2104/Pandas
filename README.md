@@ -1,2 +1,7 @@
-Hello This repo has so far that i have learned in pandas
+Hello This repo has so far that I have learned in pandas
 
+For CSV file
+
+Link -- https://insights.stackoverflow.com/survey
+
+I picked up the survey for the year 2017
